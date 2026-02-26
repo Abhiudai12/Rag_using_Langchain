@@ -1,4 +1,4 @@
-# 🧠 RAG Using LangChain
+#  Youtube Chatbot
 
 This project demonstrates how to build a **Retrieval-Augmented Generation (RAG)** pipeline using **LangChain** and Hugging Face models.
 
@@ -6,7 +6,7 @@ The notebook walks through loading documents, creating embeddings, storing them 
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 Retrieval-Augmented Generation (RAG) improves LLM responses by retrieving relevant context from external documents before generating answers.
 

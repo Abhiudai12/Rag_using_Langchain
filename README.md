@@ -1,5 +1,6 @@
-#  Youtube Chatbot
+#  Youtube Chatbot Screenshot
 ![YouTube RAG Chatbot](ABHI-RAG-YoutubeChat.png)
+
 This project demonstrates how to build a **Retrieval-Augmented Generation (RAG)** pipeline using **LangChain** and Hugging Face models.
 
 The notebook walks through loading documents, creating embeddings, storing them in a vector database, and querying them using an LLM to generate context-aware responses.

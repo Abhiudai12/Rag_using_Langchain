@@ -1,5 +1,5 @@
 #  Youtube Chatbot Screenshot
-![YouTube RAG Chatbot](Screenshot (3).png)
+![YouTube RAG Chatbot](RagUIScreenshot)
 
 This project demonstrates how to build a **Retrieval-Augmented Generation (RAG)** pipeline using **LangChain** and Hugging Face models.
 
